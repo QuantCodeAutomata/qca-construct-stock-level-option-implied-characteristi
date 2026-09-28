@@ -1,0 +1,58 @@
+# Core scientific
+numpy>=1.26.4
+pandas>=2.2.2
+scipy>=1.14.0
+scikit-learn>=1.5.1
+
+# Statistics & econometrics
+statsmodels>=0.14.2
+arch>=6.0
+
+# Machine learning & explainability
+xgboost>=2.1.0
+lightgbm>=4.5.0
+catboost>=1.2.5
+shap>=0.45.0
+optuna>=3.0.0
+
+# Portfolio optimization
+pyportfolioopt>=1.5.5
+skfolio>=0.1
+
+# Backtesting
+vectorbt>=0.26
+
+# Regime detection / changepoints
+hmmlearn>=0.3.2
+ruptures>=1.1
+
+# Copulas
+copulae>=0.7.9
+
+# Technical indicators
+ta>=0.11.0
+
+# Performance analytics
+quantstats>=0.0.60
+
+# Data sources
+massive>=0.1.0
+pandas-datareader>=0.10.0
+requests>=2.31.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.0.0
+
+# Experiment tracking
+mlflow>=2.0.0
+
+# Symbolic math
+sympy>=1.12
+
+# Fast DataFrames
+polars>=1.3.0
+
+# Testing
+pytest>=8.0.0

@@ -1,0 +1,17 @@
+{
+  "maturities_tested": [
+    1,
+    2,
+    3,
+    5,
+    10,
+    30,
+    60
+  ],
+  "rf_proxies": [
+    "TOPT",
+    "FRED"
+  ],
+  "n_months": 234,
+  "timestamp": "2026-09-28T07:04:55.636464"
+}

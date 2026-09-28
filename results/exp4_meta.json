@@ -1,0 +1,7 @@
+{
+  "n_screened_factors": 20,
+  "n_bh_significant": 20,
+  "n_bonferroni_significant": 20,
+  "bh_alpha": 0.05,
+  "timestamp": "2026-09-28T07:04:44.142584"
+}

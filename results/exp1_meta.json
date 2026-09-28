@@ -1,0 +1,9 @@
+{
+  "n_stocks": 50,
+  "n_months": 234,
+  "n_chars": 137,
+  "avg_factor_leg_size": 9.12,
+  "factor_mean_return": 0.000344,
+  "factor_mean_std": 0.040105,
+  "timestamp": "2026-09-28T07:05:24.683146"
+}
